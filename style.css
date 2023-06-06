@@ -1,0 +1,8 @@
+#hero{
+    width: 100%;
+    height: 100vh;
+    background: url(images/about-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0px;
+}
